@@ -1,0 +1,2 @@
+#Wed Apr 12 14:52:21 CEST 2017
+Result=7.0
